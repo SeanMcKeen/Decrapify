@@ -1,0 +1,1 @@
+powershell.exe -Command "& {Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned; ".\decrapify.ps1"}"
