@@ -2,22 +2,13 @@
 # Added to by Sean McKeen <smckeen@wgtech.com>
 
 $badpkg = @(
-    "Clipchamp.Clipchamp*"
     "Microsoft.BingNews*"
     "Microsoft.BingWeather*"
     "Microsoft.GamingApp*"
     "Microsoft.Getstarted*"
     "Microsoft.MicrosoftOfficeHub*"
-    "Microsoft.MicrosoftSolitaireCollection*"
     "Microsoft.People*"
     "Microsoft.PowerAutomateDesktop*"
-    "Microsoft.SkypeApp*"
-    "Microsoft.Xbox.TCUI*"
-    "Microsoft.XboxApp*"
-    "Microsoft.XboxGameOverlay*"
-    "Microsoft.XboxGamingOverlay*"
-    "Microsoft.XboxIdentityProvider*"
-    "Microsoft.XboxSpeechToTextOverlay*"
     "Microsoft.Windows.Photos*"
     "Microsoft.WindowsAlarms*"
     "microsoft.windowscommunicationsapps*"
@@ -27,7 +18,6 @@ $badpkg = @(
     "Microsoft.ZuneMusic*"
     "Microsoft.ZuneVideo*"
     "MicrosoftCorporationII.QuickAssist*"
-    "SpotifyAB.SpotifyMusic*"
     "MicrosoftCorporationII.MicrosoftFamily*"
     "MicrosoftTeams*"
     "26720RandomSaladGamesLLC.3899848563C1F*"
@@ -56,7 +46,6 @@ $hpBadPKGs = @(
     "AD2F1837.HPQuickTouch*"
     "AD2F1837.HPEasyClean*"
     "AD2F1837.HPSystemInformation*"
-    "AD2F1837.OMENCommandCenter*"
 )
 
 $lenovoBadPKGs = @(
